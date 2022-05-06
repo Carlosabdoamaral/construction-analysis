@@ -81,9 +81,7 @@
 		987207152798C94A00BC056F /* Construction-analysis */ = {
 			isa = PBXGroup;
 			children = (
-				9889A311279B5FCB00BD5006 /* Utilities */,
 				9872073C2798EDCC00BC056F /* Data */,
-				987207282798CF1D00BC056F /* Models */,
 				987207272798CF1700BC056F /* Extensions */,
 				987207262798CF0900BC056F /* Assets */,
 				987207242798CEF300BC056F /* App */,
@@ -142,13 +140,6 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		987207282798CF1D00BC056F /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
 		987207372798DAD200BC056F /* Components */ = {
 			isa = PBXGroup;
 			children = (
@@ -175,13 +166,6 @@
 				987207442798F69300BC056F /* ProfileView.swift */,
 			);
 			path = TabView;
-			sourceTree = "<group>";
-		};
-		9889A311279B5FCB00BD5006 /* Utilities */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Utilities;
 			sourceTree = "<group>";
 		};
 		9893B5CC27999DB400D36172 /* NewAnalysis */ = {
